@@ -7,6 +7,8 @@ python:
   - "3.6"
 services:
   - docker
+script: make test
+script: make release
 jobs:
   include:
     - stage: "Build and test"
