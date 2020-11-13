@@ -1,4 +1,7 @@
 language: python
+arch:
+  - "amd64"
+  - "arm64"
 sudo: required
 python:
   - "3.6"
