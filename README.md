@@ -16,7 +16,7 @@ limitations under the License.
 
 # CPU Manager for Kubernetes
 
-[![Build Status](https://travis-ci.org/intel/CPU-Manager-for-Kubernetes.svg?branch=master)](https://travis-ci.org/intel/CPU-Manager-for-Kubernetes)
+[![Build Status](https://travis-ci.org/GitSoftwareNow/CPU-Manager-for-Kubernetes.svg?branch=master)](https://travis-ci.org/GitSoftwareNow/CPU-Manager-for-Kubernetes)
 
 ## Overview
 
